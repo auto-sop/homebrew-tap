@@ -1,8 +1,8 @@
 class AutoSop < Formula
   desc "Make Claude Code self-improving — auto-detect mistakes, write CLAUDE.md directives"
   homepage "https://auto-sop.com"
-  url "https://registry.npmjs.org/auto-sop/-/auto-sop-0.1.16.tgz"
-  sha256 "bb89cbfbeca028fbe5facf2701e12d4ea4ad582e89154053067139d542e33439"
+  url "https://registry.npmjs.org/auto-sop/-/auto-sop-0.1.18.tgz"
+  sha256 "8d3e19665666dce1a469813fbfa5923737b39944403d5bd850ec3d942427e61c"
   license "Elastic-2.0"
 
   depends_on "node@20"
